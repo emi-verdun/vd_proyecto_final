@@ -132,8 +132,8 @@
       <!-- <br><br><br><br><br> -->
       <div class="espacio" style="height:200px"></div>
     <div class="gamification_portion">
-      <img src="public/images/botones/disclaimer.png" width=500px alt="advert">
-      <img src="public/images/botones/disclaimer2.png" width=100px alt="advert2" style="display: flex; position: relative; bottom: 220px; left:20%">
+      <img src="/images/botones/disclaimer.png" width=500px alt="advert">
+      <img src="/images/botones/disclaimer2.png" width=100px alt="advert2" style="display: flex; position: relative; bottom: 220px; left:20%">
       <img src="/images/botones/flechas.svg" class="up-down" width=30px alt="flechas">
       <div class="espacio" style="height: 200px"></div>      
 
